@@ -5,5 +5,12 @@ ls -la
 
 
 
-cd ..
+
 exit
+m..
+is 
+
+
+very
+
+faltu
